@@ -3,5 +3,9 @@
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "@yulinxi/lerna-pk1": "file:packages/lerna-pk1",
+    "@yulinxi/lerna-pk2": "file:packages/lerna-pk2"
   }
 }
