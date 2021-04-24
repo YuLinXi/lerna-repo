@@ -1,11 +1,12 @@
 {
   "name": "@yulinxi/lerna-pk1",
-  "version": "0.0.5",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "03bab2a00f4cac5d7fb6833b235dadf51f42c895"
 }
